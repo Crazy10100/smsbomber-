@@ -17,7 +17,7 @@ pip install requests
 
 pip install mechanize
 
-git clone 
+git clone https://github.com/Crazy10100/smsbomber-
 
 ls
 
