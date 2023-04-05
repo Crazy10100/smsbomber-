@@ -21,8 +21,8 @@ git clone https://github.com/Crazy10100/smsbomber-
 
 ls
 
-cd TiktokF
+cd smsbomber-
 
 ls
 
-python 
+python sms-bomber.py
