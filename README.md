@@ -1,5 +1,6 @@
 ##### smsbomber-command
-termux-setup-storage
+termux-setup-storage 
+
 pkg install sox
 
 pkg update
@@ -26,8 +27,39 @@ cd smsbomber-
 
 ls
 
-play sms .mp3
+play 'sms .mp3'
 
 ls
 
 python sms.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
