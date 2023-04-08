@@ -25,6 +25,9 @@ ls
 cd smsbomber-
 
 ls
-play mp
+
+play sms .mp3
+
+ls
 
 python sms.py
