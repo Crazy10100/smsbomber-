@@ -1,3 +1,4 @@
+```
 ##### smsbomber-command
 termux-setup-storage 
 
@@ -36,7 +37,7 @@ python sms.py
 ls
 
 python sms.py
-
+```
 
 
 
